@@ -9,7 +9,7 @@ Building a habit of practising new skills through an awesome Scholarship Challen
 
 ⏩ Journey Begins. Lesson 2 in Progress.
 
-⏩ Exploring the web for some more information about different topics.
+⏩ Exploring the web for some more information about different topics.\
 
 
 
