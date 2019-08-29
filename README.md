@@ -3,7 +3,7 @@ Building a habit of practising new skills through an awesome Scholarship Challen
 
 **The 60 Days Timeline (28th June 2019 -                 )**
 
-Day 1 (28th June 2019)
+📆 Day 1 (28th June 2019)
 
 ⏩ Pledge for **#60DaysofUdacity**
 
@@ -12,14 +12,14 @@ Day 1 (28th June 2019)
 ⏩ Exploring the web for some more information about different topics.
 
 
-Day 2 (29-June-2019)
+📆 Day 2 (29th June 2019)
 
 ⏩ Lesson 2 in Progress.
 
 ⏩ Work on the Projects.
 
 
-Day 3 (30-June-2019)
+📆 Day 3 (30th June 2019)
 
 ⏩ Lesson 2 in Progress.
 
@@ -28,7 +28,7 @@ Day 3 (30-June-2019)
 ⏩ Exploring the web for some articles and useful resources.
 
 
-Day 4 (01-July-2019)
+📆 Day 4 (01st July 2019)
 
 ⏩ Lesson 2 Done. 
 
@@ -37,21 +37,21 @@ Day 4 (01-July-2019)
 ⏩ Beginning of lesson 3. 
 
 
-Day 5 (2-July-2019)
+📆 Day 5 (2nd July 2019)
 
 ⏩ Lesson 3 in Progress.
 
 ⏩ Working on the Projects.
 
 
-Day 6 (03-July-2019)
+📆 Day 6 (03rd July 2019)
 
 ⏩ Lesson 3 in Progress.
 
 ⏩ Taking a brief of Slack Messages.
 
 
-Day 7 (04-July-2019)
+📆 Day 7 (04th July 2019)
 
 ⏩ Lesson 3 in Progress.
 
@@ -60,7 +60,7 @@ Day 7 (04-July-2019)
 ⏩ Practise the required stuffs.
 
 
-Day 8 (05-July-2019)
+📆 Day 8 (05th July 2019)
 
 ⏩ Lesson 3 Completed.
 
@@ -69,7 +69,7 @@ Day 8 (05-July-2019)
 ⏩ Look for the resources and work on the Projects.
 
 
-Day 9 (06-July-2019)
+📆 Day 9 (06th July 2019)
 
 ⏩ Beginning of Lesson 4.
 
@@ -78,7 +78,7 @@ Day 9 (06-July-2019)
 ⏩ Taking a brief of Slack Messages.
 
 
-Day 10 (07-July-2019)
+📆 Day 10 (07th July 2019)
 
 ⏩ Lesson 4 in Progress.
 
@@ -87,7 +87,7 @@ Day 10 (07-July-2019)
 ⏩ Revision of covered topics.
 
 
-Day 11 (08-July-2019)
+📆 Day 11 (08th July 2019)
 
 ⏩ Lesson 4 Completed.
 
@@ -96,7 +96,7 @@ Day 11 (08-July-2019)
 ⏩ Studying differencing attack and sensitivity for threshold.
 
 
-Day 12 (09-July-2019)
+📆 Day 12 (09th July 2019)
 
 ⏩ Beginning of Lesson 5.
 
@@ -105,7 +105,7 @@ Day 12 (09-July-2019)
 ⏩ Participated in a meetup.
 
 
-Day 13 (10-July-2019)
+📆 Day 13 (10th July 2019)
 
 ⏩ Lesson 5 in Progress.
 
@@ -116,7 +116,7 @@ Day 13 (10-July-2019)
 ⏩ Going through the resources.
 
 
-Day 14 (11-July-2019)
+📆 Day 14 (11th July 2019)
 
 ⏩ Lesson 5 Completed.
 
@@ -127,7 +127,7 @@ Day 14 (11-July-2019)
 ⏩ Taking a brief of Slack Messages.
 
 
-Day 15 (12-July-2019)
+📆 Day 15 (12th July 2019)
 
 ⏩ Beginning of the Lesson 6.
 
@@ -138,7 +138,7 @@ Day 15 (12-July-2019)
 ⏩ Interact on Slack.
 
 
-Day 16 (13-July-2019)
+📆 Day 16 (13th July 2019)
 
 ⏩ Lesson 6 in Progress.
 
@@ -147,7 +147,7 @@ Day 16 (13-July-2019)
 ⏩ Interacting with the PyTorch Scholars about their experiences.
 
 
-Day 17 (14-July-2019)
+📆 Day 17 (14th July 2019)
 
 ⏩ Lesson 6 Completed.
 
@@ -156,7 +156,7 @@ Day 17 (14-July-2019)
 ⏩ Going through the posts in the Slack channels.
 
 
-Day 18 (15-July-2019)
+📆 Day 18 (15th July 2019)
 
 ⏩ Revision of Lesson 6.
 
@@ -165,7 +165,7 @@ Day 18 (15-July-2019)
 ⏩ Studying the topics, and going through some articles, just a minimal revision.
 
 
-Day 19 (16-July-2019)
+📆 Day 19 (16th July 2019)
 
 ⏩ Beginning of Lesson 7.
 
@@ -174,7 +174,7 @@ Day 19 (16-July-2019)
 ⏩ Going through the Slack messages, and the questions of AMA Sessions.
 
 
-Day 20 (17-July-2019)
+📆 Day 20 (17th July 2019)
 
 ⏩ Lesson 7 in Progress.
 
@@ -185,7 +185,7 @@ Day 20 (17-July-2019)
 ⏩ Looking for the resources and articles over the internet.
 
 
-Day 21 (18-July-2019)
+📆 Day 21 (18th July 2019)
 
 ⏩ Lesson 7 in Progress.
 
@@ -194,7 +194,7 @@ Day 21 (18-July-2019)
 ⏩ Going through the Projects.
 
 
-Day 22 (19-July-2019)
+📆 Day 22 (19 July 2019)
 
 ⏩ Lesson 7 Completed.
 
@@ -203,7 +203,7 @@ Day 22 (19-July-2019)
 ⏩ Revise the covered topics.
 
 
-Day 23 (20-July-2019)
+📆 Day 23 (20th July 2019)
 
 ⏩ Revision of Lesson 7.
 
@@ -214,7 +214,7 @@ Day 23 (20-July-2019)
 ⏩ Taking a brief of Slack Messages.
 
 
-Day 24 (21-July-2019)
+📆 Day 24 (21st July 2019)
 
 ⏩ Looking up different online courses for ML, and Deep Learning.
 
@@ -223,14 +223,14 @@ Day 24 (21-July-2019)
 ⏩ Going through Slack Messages (Resources).
 
 
-Day 25 (22-July-2019)
+📆 Day 25 (22nd July 2019)
 
 ⏩ Going through other available courses over the Internet, and going through them.
 
 ⏩ Exploring the books, and articles related to the current Challenge Course.
 
 
-Day 26 (23-July-2019)
+📆 Day 26 (23rd July 2019)
 
 ⏩ Beginning of Lesson 8.
 
@@ -239,14 +239,14 @@ Day 26 (23-July-2019)
 ⏩ Work on the projects.
 
 
-Day 27 (24-July-2019)
+📆 Day 27 (24th July 2019)
 
 ⏩ Lesson 8 in Progress.
 
 ⏩ A slight progress was made in the Lesson.
 
 
-Day 28 (25-July-2019)
+📆 Day 28 (25th July 2019)
 
 ⏩ Lesson 8 in Progress.
 
@@ -255,7 +255,7 @@ Day 28 (25-July-2019)
 ⏩ Going through the articles and blogs on the internet regarding 'Securing Federated Learning'.
 
 
-Day 29 (26-July-2019)
+📆 Day 29 (26th July 2019)
 
 ⏩ Lesson 8 in Progress.
 
@@ -264,7 +264,7 @@ Day 29 (26-July-2019)
 ⏩ Working on the Projects.
 
 
-Day 30 (27-July-2019)
+📆 Day 30 (27th July 2019)
 
 ⏩ Lesson 8 Completed.
 
@@ -275,7 +275,7 @@ Day 30 (27-July-2019)
 ⏩ Completing the Projects.
 
 
-Day 31 (28-July-2019)
+📆 Day 31 (28th July 2019)
 
 ⏩ Revising the covered topics.
 
@@ -284,7 +284,7 @@ Day 31 (28-July-2019)
 ⏩ Encouraging my peers on LinkedIn.
 
 
-Day 32 (29-July-2019)
+📆 Day 32 (29th July 2019)
 
 ⏩ Clearing the doubts, and reworking on the projects.
 
@@ -293,12 +293,12 @@ Day 32 (29-July-2019)
 ⏩ Taking a brief of Slack Messages.
 
 
-Day 33 (30-July-2019)
+📆 Day 33 (30th July 2019)
 
 ⏩ Completing my Actions for Google Project.
 
 
-Day 34 (31-July-2019)
+📆 Day 34 (31st July 2019)
 
 ⏩ Revision the Challenge Course.
 
@@ -307,14 +307,14 @@ Day 34 (31-July-2019)
 ⏩ Got my doubts cleared.
 
 
-Day 35 (01-Aug-2019)
+📆 Day 35 (01st Aug 2019)
 
 ⏩ Beginning of Lesson 9.
 
 ⏩ Going through the lessons, and revisiting the topics.
 
 
-Day 36 (02-Aug-2019)
+📆 Day 36 (02nd Aug 2019)
 
 ⏩ Lesson 9 in Progress.
 
@@ -323,16 +323,14 @@ Day 36 (02-Aug-2019)
 ⏩ AWS DeepRacer Scholarship Challenge : Going through the basics, and the course.
 
 
-Day 37 (03-Aug-2019)
+📆 Day 37 (03-Aug-2019)
 
 ⏩ Lesson 9 in Progress.
 
 ⏩ Looking up for some books and resources on the internet regarding Encrypted Deep Learning.
 
 
-Day 38 (04-Aug-2019)
-
-⏩ Lesson 9 Completed. 
+📆 Day 38 (03rd Aug 2019)
 
 ⏩ Revising the topics.
 
@@ -341,7 +339,7 @@ Day 38 (04-Aug-2019)
 ⏩ Clearing up my doubts.
 
 
-Day 39 (05-Aug-2019)
+📆 Day 39 (04th Aug 2019)
 
 ⏩ Working on the Keystone Project.
 
@@ -350,7 +348,7 @@ Day 39 (05-Aug-2019)
 ⏩ Taking a Brief of Slack Messages.
 
 
-Day 40 (06-Aug-2019)
+📆 Day 40 (05th Aug 2019)
 
 ⏩ SPAIChallenge Course Completed. 🎇🎇🎇
 
@@ -359,7 +357,7 @@ Day 40 (06-Aug-2019)
 ⏩ Going again through the Course Contents to take a very short and simple brief.
 
 
-Day 41(07-Aug-2019)
+📆 Day 41 (06th Aug 2019)
 
 ⏩ Going through the entire Challenge Course.
 
@@ -368,14 +366,14 @@ Day 41(07-Aug-2019)
 ⏩ Revisiting the courses to check if I missed something.
 
 
-Day 42(08-Aug-2019)
+📆 Day 42 (07th Aug 2019)
 
 ⏩ Completing the Projects.
 
 ⏩ Searching for resources over the Internet regarding ML and AI.
 
 
-Day 43 (09-Aug-2019)
+📆 Day 43 (08th Aug 2019)
 
 ⏩ The Course if finally done. Everything is upto the mark.
 
@@ -386,28 +384,32 @@ Day 43 (09-Aug-2019)
 ⏩ Interacting with peers in the Community.
 
 
-Day 44(10-Aug-2019)
+(09th Aug 2019)
+No Learning for the Day, Wasn't Well. :(
+
+
+📆 Day 44 (10th Aug 2019)
 
 ⏩ Looking up the website 'School of AI'.
 
 ⏩ Going through some interesting Blogs and Posts regarding Deep Learning.
 
 
-Day 45(11-Aug-2019)
+📆 Day 45 (11th Aug 2019)
 
 ⏩ Got back to AWS DeepRacer Scholarship Course.
 
 ⏩ Going through the Lectures.
 
 
-Day 46(12-Aug-2019)
+📆 Day 46 (12th Aug 2019)
 
 ⏩ No Learning. Eid Mubarak! 🎊 🎊 🎊
 
 ⏩ Taking a brief of Slack Messages.
 
 
-Day 47(13-Aug-2019)
+📆 Day 47 (13th Aug 2019)
 
 ⏩ Going through the SPAIC Community.
 
@@ -416,7 +418,7 @@ Day 47(13-Aug-2019)
 ⏩ Going through the Resources and AMA Channel.
 
 
-Day 48(14-Aug-2019)
+📆 Day 48 (14th Aug 2019)
 
 ⏩ AWS DeepRacer Scholarship : Lesson 3 in Progress.
 
@@ -425,7 +427,7 @@ Day 48(14-Aug-2019)
 ⏩ Encouraging my peers on LinkedIn and WhatsApp regarding DL, and AI.
 
 
-Day 49(15-Aug-2019)
+📆 Day 49 (15th Aug 2019)
 
 ⏩ AWS DeepRacer Scholarship : Lesson 3 Completed.
 
@@ -434,7 +436,7 @@ Day 49(15-Aug-2019)
 ⏩ Looking for the articles regarding AWS over the Internet.
 
 
-Day 50(16-Aug-2019)
+📆 Day 50 (16th Aug 2019)
 
 ⏩ AWS DeepRacer Scholarship : Lesson 4 Beings.
 
@@ -445,7 +447,7 @@ Day 50(16-Aug-2019)
 ⏩ Taking a brief of Slack Messages on Slack for SPAIC.
 
 
-Day 51(17-Aug-2019)
+📆 Day 51 (17th Aug 2019)
 
 ⏩ AWS DeepRacer Scholarship : Lesson 4 Completed.
 
@@ -454,7 +456,7 @@ Day 51(17-Aug-2019)
 ⏩ Going through the Slack Messages from SPAIC.
 
 
-Day 52(18-Aug-2019)
+📆 Day 52 (18th Aug 2019)
 
 ⏩ AWS DeepRacer Scholarship : Lesson 5 Begins.
 
@@ -463,14 +465,14 @@ Day 52(18-Aug-2019)
 ⏩ Looking for some resources and good courses over the Internet to expand my knowledge about DL, and DS.
 
 
-Day 53(19-Aug-2019)
+📆 Day 53 (19th Aug 2019)
 
 ⏩ AWS DeepRacer Scholarship : Lesson 5 Completed.
 
 ⏩ Brushing up my knowledge for the AWS DeepRacer Course.
 
 
-Day 54(20-Aug-2019)
+📆 Day 54 (20th Aug 2019)
 
 ⏩ Got back to the SPAIC.
 
@@ -484,21 +486,21 @@ Day 54(20-Aug-2019)
 No Learning for the day.
 
 
-Day 55(22-Aug-2019)
+📆 Day 55 (22nd Aug 2019)
 
 ⏩ Federated Learning : Revising the topics
 
 ⏩ Going through the blogs and courses related to Federated Learning.
 
 
-Day 56(23-Aug-2019)
+📆 Day 56 (23rd Aug 2019)
 
 ⏩ Watching some Tutorials.
 
 ⏩ Take a brief of Slack Messages from SPAIC Community.
 
 
-Day 57(24-Aug-2019)
+📆 Day 57 (24th Aug 2019)
 
 ⏩ Going through the Slack Messages in SPAIC Community.
 
@@ -507,7 +509,7 @@ Day 57(24-Aug-2019)
 ⏩ Revising the topic : Encrypted Deep Learning.
 
 
-Day 58(25-Aug-2019)
+📆 Day 58 (25th Aug 2019)
 
 ⏩ Encrypted Deep Learning : Expanding my knowledge.
 
@@ -525,7 +527,7 @@ Attended the AMA Session.
 
 
 
-Day 59(27-Aug-2019)
+📆 Day 59 (27th Aug 2019)
 
 ⏩ Interacting and Encouraging other students on Slack.
 
@@ -536,7 +538,7 @@ Day 59(27-Aug-2019)
 
 
 
-Day 60(28-Aug-2019) ✅✅✅✅✅
+📆 Day 60 (28th Aug 2019) ✅✅✅✅✅
 
 ⏩ Finally the Day 60 of #60DaysofUdacity.
 
