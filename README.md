@@ -48,7 +48,7 @@ Day 6 (03-July-2019)
 
 ⏩ Lesson 3 in Progress.
 
-⏩ Briefing Slack Messages.
+⏩ Taking a brief of Slack Messages.
 
 
 Day 7 (04-July-2019)
@@ -62,325 +62,301 @@ Day 7 (04-July-2019)
 
 Day 8 (05-July-2019)
 
-⏩ Continuing Lesson 4
+⏩ Lesson 3 Completed.
 
-⏩ Sensitivity for Threshold Function
+⏩ Revise the topics covered in the Lesson.
 
-⏩ Reading a research paper
-
-⏩ Set weekly goals!
+⏩ Look for the resources and work on the Projects.
 
 
 Day 9 (06-July-2019)
 
-⏩ Completed Lesson 4
+⏩ Beginning of Lesson 4.
 
-⏩ Joined a study group
+⏩ Going through the initial Lectures.
 
-⏩ Encouraging my peers to keeping up the pace #60DaysOfUdacity & to stay motivated!
-
-⏩ Learning on the go from @udacity app 😉
+⏩ Taking a brief of Slack Messages.
 
 
 Day 10 (07-July-2019)
 
-⏩ Started Lesson 5
+⏩ Lesson 4 in Progress.
 
-⏩ Introducing Local and Global Differential Privacy
+⏩ Evaluating The Privacy Of A Function, looking for the resources over the web.
 
-⏩ Participated in community initiatives
+⏩ Revision of covered topics.
 
 
 Day 11 (08-July-2019)
 
-⏩ Going strong on Lesson 5! 😇
+⏩ Lesson 4 Completed.
 
-⏩ Participated in AMA Session
+⏩ Revision of the topics.
 
-⏩ Participated in community initiatives
-
-⏩ Excited for upcoming meetups
+⏩ Studying differencing attack and sensitivity for threshold.
 
 
 Day 12 (09-July-2019)
 
-⏩ Completed Lesson 5! 😇
+⏩ Beginning of Lesson 5.
 
-⏩ Started my fav course Introduction to Neural Networks by @luis_likes_math
+⏩ Exploring the web for the articles and resources. 
 
-⏩ Helped & encouraged my fellow scholars
-
-⏩ Had an awesome virtual meetup!
+⏩ Participated in a meetup.
 
 
 Day 13 (10-July-2019)
 
-⏩ Watched a great talk of @PyTorch by @soumithchintala & @cezannecam
+⏩ Lesson 5 in Progress.
 
-⏩ Create a Differentially Private Query by @iamtrask
+⏩ Working on the projects.
 
-⏩ Participated in few Moderators Activities!
+⏩ Revision of the covered topics.
 
-⏩ Working on my project
+⏩ Going through the resources.
 
 
 Day 14 (11-July-2019)
 
-⏩ Watched few course videos and read other tutorials
+⏩ Lesson 5 Completed.
 
-⏩ Participating in Moderators Initiatives!
+⏩ Revising the covered topics.
 
-⏩ First meetup with #sg_wonder_vision 😍
+⏩ Participate in the meetup.
 
-⏩ Had discussion for our group project
+⏩ Taking a brief of Slack Messages.
 
 
 Day 15 (12-July-2019)
 
-⏩ Lesson 6 Differential Privacy for Deep Learning
+⏩ Beginning of the Lesson 6.
 
-⏩ Watched the Interview of @bhowmick_ab & Ashish Garg on Differential Privacy @Apple
+⏩ Study for the same, and look up for resources over the internet.
+
+⏩ Explore different courses and clear the doubts. 
+
+⏩ Interact on Slack.
 
 
 Day 16 (13-July-2019)
 
-⏩ Read few tutorials on Differential Privacy
+⏩ Lesson 6 in Progress.
 
-⏩ Writing a blog
+⏩ Study for the same, going through the articles and lectures.
 
-⏩ Helped & encouraged my fellow scholars
-
-⏩ Excited for upcoming meetups
+⏩ Interacting with the PyTorch Scholars about their experiences.
 
 
 Day 17 (14-July-2019)
 
-⏩ Watched the interview of Miles Brundage OpenAI
+⏩ Lesson 6 Completed.
 
-⏩ Almost completed my first blog on Secure and Private AI Scholarship
+⏩ Revision of the covered topics.
 
-⏩ Had a meetup with our study group #sg_study_jahm Akshit Jain Palak Sadani Udacity Facebook
+⏩ Going through the posts in the Slack channels.
 
 
 Day 18 (15-July-2019)
 
-⏩ Completed Lesson 6
+⏩ Revision of Lesson 6.
 
-⏩ Started revising and walkthrough my notes on the course!
+⏩ Working on the projects.
 
-⏩ Having a revision week from Lesson 1 to Lesson 6.
-
-⏩ Reading this paper https://arxiv.org/pdf/1607.00133.pdf …
+⏩ Studying the topics, and going through some articles, just a minimal revision.
 
 
 Day 19 (16-July-2019)
 
-⏩ Started my revision WEEK 1 (Lesson 1 - 6)
+⏩ Beginning of Lesson 7.
 
-⏩ Learning about PySyft library
+⏩ Looking for other courses over the web.
 
-⏩ Had a virtual meetup with our study group #sg_wonder_vision our project Object Detection with @PyTorch
+⏩ Going through the Slack messages, and the questions of AMA Sessions.
 
 
 Day 20 (17-July-2019)
 
-⏩ Started Lesson 7 Federated Learning
+⏩ Lesson 7 in Progress.
 
-⏩ Continuing my revision week!
+⏩ Learning about PySyft.
 
-⏩ Published my first blog on Secure and Private AI Challenge Scholarship @udacity
+⏩ Resetting up my PC.
+
+⏩ Looking for the resources and articles over the internet.
 
 
 Day 21 (18-July-2019)
 
-⏩ Lesson 7 getting started with PySyft
+⏩ Lesson 7 in Progress.
 
-⏩ Had an awesome meetup with our study group #sg_wonder_vision
+⏩ Studying about Federated Learning.
 
-⏩ Continuing revision week 1
+⏩ Going through the Projects.
 
 
 Day 22 (19-July-2019)
 
-⏩ Lesson 7 Installed PySyft and Exploring the @openminedorg Community
+⏩ Lesson 7 Completed.
 
-⏩ Had a meetup with #sg_kolkata
+⏩ Complete the projects.
 
-⏩ Continuing my revision week 1
-
-⏩ Finally started my AI course on @coursera
+⏩ Revise the covered topics.
 
 
 Day 23 (20-July-2019)
 
-⏩ Lesson 7 Learning about Garbage collection and common errors!
+⏩ Revision of Lesson 7.
 
-⏩ Had an awesome meetup with our study group #sg_study_jahm and #sg_pytorch_robotics
+⏩ Going through the notes.
 
-⏩ Continuing my revision week 1
+⏩ Looking and going through the resources available on web.
+
+⏩ Taking a brief of Slack Messages.
 
 
 Day 24 (21-July-2019)
 
-⏩ Completed Lesson 7 Federated Learning.
+⏩ Looking up different online courses for ML, and Deep Learning.
 
-⏩ Watched the Interview of Brendan McMahan @Google on Federated Learning!
+⏩ Brushing up my unbrushed knowledges.
 
-⏩ So far participated in 10 meetups
-
-⏩ Continuing my revision week 1
+⏩ Going through Slack Messages (Resources).
 
 
 Day 25 (22-July-2019)
 
-⏩ Lesson 8 Intro to Additive Secret Sharing
+⏩ Going through other available courses over the Internet, and going through them.
 
-⏩ Had a meetup with our study group #sg_wonder_vision discussed our group project!
-
-⏩ Completed my revision week 1
+⏩ Exploring the books, and articles related to the current Challenge Course.
 
 
 Day 26 (23-July-2019)
 
-⏩ Completed Lesson 8 of Secure and Private AI course
+⏩ Beginning of Lesson 8.
 
-⏩ Completed a quest Baseline: Data,ML,AI @qwiklabs @GCPcloud
+⏩ Going through the Lesson.
 
-⏩Worked on my project.
-
-⏩500+ retweets by @60daysofudacity 🤖made by me!
+⏩ Work on the projects.
 
 
 Day 27 (24-July-2019)
 
-⏩ Started Lesson 9 Introducing Encrypted Deep Learning
+⏩ Lesson 8 in Progress.
 
-⏩Participated in a webinar in our study group #sg_pytorch_robotics by @techie991 and the host @psNoBugs Thanks for an awesome webinar
+⏩ A slight progress was made in the Lesson.
 
 
 Day 28 (25-July-2019)
 
-⏩ Lesson 9 Project Demo - Build an Encrypted Database of Secure and Private AI course
+⏩ Lesson 8 in Progress.
 
-⏩ Participate in our bi-weekly meetup of the study group #sg_wonder_vision
+⏩ Revising the covered topics in the current lesson.
 
-⏩ Watched few tutorials of object detection
+⏩ Going through the articles and blogs on the internet regarding 'Securing Federated Learning'.
 
 
 Day 29 (26-July-2019)
 
-⏩ Lesson 9 Encrypted Deep Learning in Keras
+⏩ Lesson 8 in Progress.
 
-⏩ Participated in Community Initiatives
+⏩ Clearing my doubts.
 
-⏩ Working on my project
-
-⏩ Read a blog about PySyft for @Android
+⏩ Working on the Projects.
 
 
 Day 30 (27-July-2019)
 
-⏩ Finally Completed the Secure and Private AI course. 🎉
+⏩ Lesson 8 Completed.
 
-⏩ Participated in a few community initiatives.
+⏩ Mission #60DaysofUdacity is half-complete. ⛳️
 
-⏩ Working on my project.
+⏩ Revising the current lesson.
 
-⏩ YOLO Object Detection.
+⏩ Completing the Projects.
 
 
 Day 31 (28-July-2019)
 
-⏩ Started the awesome course Self-Driving Fundamentals: Featuring Apollo @Udacity
+⏩ Revising the covered topics.
 
-⏩ Revising the Secure and Private AI Challenge course
+⏩ Looking for similar courses on Coursera.
 
-⏩ Had a meetup with #sg_pytorch_robotics
+⏩ Encouraging my peers on LinkedIn.
 
 
 Day 32 (29-July-2019)
 
-⏩Revising Secure and Private AI Course
+⏩ Clearing the doubts, and reworking on the projects.
 
-⏩Completed 3 QUEST of Data Engineering on @googlecloud @qwiklabs thanks @dattaniharsh
+⏩ Reading Blogs and Articles.
 
-⏩Completed Lesson 1 Self-Driving Fundamentals
+⏩ Taking a brief of Slack Messages.
 
 
 Day 33 (30-July-2019)
 
-⏩ Revising the Lesson 2 Deep Learning with PyTorch
-
-⏩ Started Lesson 2 HD Maps of Self-Driving Car Fundamentals: Featuring Apollo
-
-⏩ Had awesome meetup with #sg_wonder_vision,#sg_dl_goodfellows
+⏩ Completing my Actions for Google Project.
 
 
 Day 34 (31-July-2019)
 
-⏩Working on my Style Transfer Project
+⏩ Revision the Challenge Course.
 
-⏩Attended a webinar 'Introduction to Embedded Systems' by Madalin Mamuleanu & host @psNoBugs!
+⏩ Interacting with people on Slack.
 
-⏩Completed Lesson-2 HD Map of Self-Driving Car Fundamentals
+⏩ Got my doubts cleared.
 
 
 Day 35 (01-Aug-2019)
 
-⏩ Revising the lesson Differential Privacy of Secure and Private AI Course
+⏩ Beginning of Lesson 9.
 
-⏩ Started Lesson 3 Localization of Self-Driving Fundamentals: Featuring Apollo
+⏩ Going through the lessons, and revisiting the topics.
 
 
 Day 36 (02-Aug-2019)
 
-⏩ Coding on my Style Transfer Project @PyTorch
+⏩ Lesson 9 in Progress.
 
-⏩ Excited for the AWS DeepRacer Scholarship Challenge @udacity
+⏩ AWS DeepRacer Scholarship Challenge : Taking a Brief.
 
-⏩ Completed the course AWS DeepRacer: Driven by Reinforcement Learning @awscloud
+⏩ AWS DeepRacer Scholarship Challenge : Going through the basics, and the course.
 
 
 Day 37 (03-Aug-2019)
 
-⏩ Read more tutorials about Style Transfer PyTorch
+⏩ Lesson 9 in Progress.
 
-⏩ Completed 30-day challenge Data Engineering Qwiklabs Google Cloud
-
-⏩ Coding on my project for Project Showcase Challenge
-
-⏩ Had awesome meetups with #sg_study_jahm & #sg_pytorch-robotics our Study Groups
+⏩ Looking up for some books and resources on the internet regarding Encrypted Deep Learning.
 
 
 Day 38 (04-Aug-2019)
 
-⏩ Attended Pate Analysis Webinar by Ateniola Oluwatobi Victor
+⏩ Lesson 9 Completed. 
 
-⏩ Attended meetup of our Face detection group
+⏩ Revising the topics.
 
-⏩ Watched first few lessons of AWS DeepRacer
+⏩ Revising the Lessons.
 
-⏩ Coding on my Project
+⏩ Clearing up my doubts.
 
 
 Day 39 (05-Aug-2019)
 
-⏩ Started my Revision Week 2 of Secure and Private AI Course
+⏩ Working on the Keystone Project.
 
-⏩ Revising convolutional neural network
+⏩ Looking for resources, and materials over the internet.
 
-⏩ Read articles about Differential Privacy
-
-⏩ Participated in a community initiative
+⏩ Taking a Brief of Slack Messages.
 
 
 Day 40 (06-Aug-2019)
 
-⏩ Started Introduction to Computer Vision @GeorgiaTech
+⏩ SPAIChallenge Course Completed. 🎇🎇🎇
 
-⏩ Revising Lesson 3 Build A Private Database In Python of Secure and Private AI course
+⏩ Revising the Lessons.
 
-⏩ Participating in community initiatives
+⏩ Going again through the Course Contents to take a very short and simple brief.
 
 
 Day 41(07-Aug-2019)
