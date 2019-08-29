@@ -9,7 +9,7 @@ Building a habit of practising new skills through an awesome Scholarship Challen
 
 ⏩ Journey Begins. Lesson 2 in Progress.
 
-⏩ Exploring the web for some more information about different topics.\
+⏩ Exploring the web for some more information about different topics.  
 
 
 
@@ -21,7 +21,7 @@ Building a habit of practising new skills through an awesome Scholarship Challen
 
 ⏩ Lesson 2 in Progress.
 
-⏩ Work on the Projects.
+⏩ Work on the Projects.  
 
 
 
@@ -35,7 +35,7 @@ Building a habit of practising new skills through an awesome Scholarship Challen
 
 ⏩ Revisiting a couple of videos for Revision.
 
-⏩ Exploring the web for some articles and useful resources.
+⏩ Exploring the web for some articles and useful resources.    
 
 
 📆 Day 4 (01st July 2019)
