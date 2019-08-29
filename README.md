@@ -12,11 +12,21 @@ Building a habit of practising new skills through an awesome Scholarship Challen
 ⏩ Exploring the web for some more information about different topics.
 
 
+
+
+
+
+
 📆 Day 2 (29th June 2019)
 
 ⏩ Lesson 2 in Progress.
 
 ⏩ Work on the Projects.
+
+
+
+
+
 
 
 📆 Day 3 (30th June 2019)
@@ -35,6 +45,11 @@ Building a habit of practising new skills through an awesome Scholarship Challen
 ⏩ Work on the projects.
 
 ⏩ Beginning of lesson 3. 
+
+
+
+
+
 
 
 📆 Day 5 (2nd July 2019)
