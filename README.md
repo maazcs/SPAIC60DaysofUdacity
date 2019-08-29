@@ -523,6 +523,8 @@ No Learning for the day, wasn't well.😷
 Attended the AMA Session.
 
 
+
+
 Day 59(27-Aug-2019)
 
 ⏩ Interacting and Encouraging other students on Slack.
@@ -530,6 +532,8 @@ Day 59(27-Aug-2019)
 ⏩ Responding to Messages on Slack.
 
 ⏩ Going through the resources Channel. 
+
+
 
 
 Day 60(28-Aug-2019) ✅✅✅✅✅
@@ -543,3 +547,6 @@ Day 60(28-Aug-2019) ✅✅✅✅✅
 ⏩ Crossed-checked everything. ✅✅✅
 
 
+
+**Thank you @akshtjn @udacity @facebookai @palak.udacity for the Tremendous Support**
+**#60DaysofUdacity**
