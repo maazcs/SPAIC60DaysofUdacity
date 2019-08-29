@@ -1,9 +1,9 @@
 # SPAIC60DaysofUdacity #60DaysofUdacity 🎉
 Building a habit of practising new skills through an awesome Scholarship Challenge powered by Udacity, sponsored by Facebook.
 
-**The 60 Days Timeline (29th June 2019 -                 )**
+**The 60 Days Timeline (28th June 2019 -                 )**
 
-Day 1 (29th June 2019)
+Day 1 (28th June 2019)
 
 ⏩ Pledge for **#60DaysofUdacity**
 
@@ -361,201 +361,185 @@ Day 40 (06-Aug-2019)
 
 Day 41(07-Aug-2019)
 
-⏩Loving the course Introduction to Computer Vision @GeorgiaTech
+⏩ Going through the entire Challenge Course.
 
-⏩Completed the course Intro to Deep Learning with Developer Circles from Facebook
+⏩ Taking a brief of what I have learned.
 
-⏩Participating in community initiatives
+⏩ Revisiting the courses to check if I missed something.
 
 
 Day 42(08-Aug-2019)
 
-⏩ Started Lesson 2 Images as Functions Intro of Intro to Computer Vission @GeorgiaTech
+⏩ Completing the Projects.
 
-⏩ Lesson 4 Intro to Perception of the course Self-Driving Car Fundamentals
-
-⏩ Coding on my project.
+⏩ Searching for resources over the Internet regarding ML and AI.
 
 
 Day 43 (09-Aug-2019)
 
-⏩Intro to computer vision @GeorgiaTech
+⏩ The Course if finally done. Everything is upto the mark.
 
-⏩Revising the Federated Learning of Secure and Private AI Course
+⏩ Search for other courses begins.
 
-⏩Had a meetup with #sg_wonder_vision Face Detection group
+⏩ Taking a brief of Slack Messages.
 
-⏩Coding on my project
+⏩ Interacting with peers in the Community.
 
 
 Day 44(10-Aug-2019)
 
-⏩ Watched Few more videos of Intro to computer vision course @GeorgiaTech
+⏩ Looking up the website 'School of AI'.
 
-⏩ Revising Lesson 8 Securing Federated Learning
-
-⏩ Had awesome meetups with our study groups #sg_wonder_vision #sg_study_jahm
+⏩ Going through some interesting Blogs and Posts regarding Deep Learning.
 
 
 Day 45(11-Aug-2019)
 
-⏩Watched few videos & revising Secure and Private AI course
+⏩ Got back to AWS DeepRacer Scholarship Course.
 
-⏩Writing a blog
-
-⏩Coding on my project for #ProjectShowcaseChallenge
-
-⏩Had meetup with #sg_wonder_vision Object Detection Group
+⏩ Going through the Lectures.
 
 
 Day 46(12-Aug-2019)
 
-⏩Revising the course SPAIC
+⏩ No Learning. Eid Mubarak! 🎊 🎊 🎊
 
-⏩Coding on my project for #ProjectShowcaseChallenge
-
-⏩Had meetup with #sg_wonder_vision Object Detection Group
-
-⏩Read few more tutorial for the Object Detection
+⏩ Taking a brief of Slack Messages.
 
 
 Day 47(13-Aug-2019)
 
-⏩Working on my Project for the #ProjectShowcaseChallenge
+⏩ Going through the SPAIC Community.
 
-⏩Exploring @openminedorg Looking forward to contribute
+⏩ Taking a brief of Slack Messages.
 
-⏩Writing my 2nd blog on the Secure and Private AI
-
-⏩Did few @qwiklabs labs
+⏩ Going through the Resources and AMA Channel.
 
 
 Day 48(14-Aug-2019)
 
-⏩I started my 3rd revision of the SPAIC course, going through the concepts again!
+⏩ AWS DeepRacer Scholarship : Lesson 3 in Progress.
 
-⏩I started the Intro to Machine Learning @udacity
+⏩ Taking a brief of Slack Messages.
 
-⏩Writing a good writeup for the project
-
-⏩Working on my projects
+⏩ Encouraging my peers on LinkedIn and WhatsApp regarding DL, and AI.
 
 
 Day 49(15-Aug-2019)
 
-⏩ Doing the Revision of Lesson 2 Deep Learning with #PyTorch #SPAIC
+⏩ AWS DeepRacer Scholarship : Lesson 3 Completed.
 
-⏩ I started Lesson 2 of Intro to Machine Learning Udacity
+⏩ Revisiting the Lessons.
 
-⏩ Still working on my blog on #SPAIC
-
-⏩ & Coding coding coding 😅
+⏩ Looking for the articles regarding AWS over the Internet.
 
 
 Day 50(16-Aug-2019)
 
-⏩ Continuing my revision of the Secure and Private AI course
+⏩ AWS DeepRacer Scholarship : Lesson 4 Beings.
 
-⏩ Did few exercises of @PyTorch
+⏩ Learning more about Reinforcement Learning.
 
-⏩ Attended meetups with #sg_wonder_vision & #sg_dl_goodfellows
+⏩ Interacting with SPAIC Community.
 
-⏩ Working on my projects!
+⏩ Taking a brief of Slack Messages on Slack for SPAIC.
 
 
 Day 51(17-Aug-2019)
 
-⏩ I did few exercises and learned some new techniques @PyTorch
+⏩ AWS DeepRacer Scholarship : Lesson 4 Completed.
 
-⏩ Attended a webinar Evolutionary Algorithms
+⏩ Interacting on LinkedIn.
 
-⏩ Working on my projects
-
-⏩ Meetups with #sg_study_jahm & #sg_pytorch_robotics
+⏩ Going through the Slack Messages from SPAIC.
 
 
 Day 52(18-Aug-2019)
 
-⏩ Revised the Lesson 3 Differential Privacy
+⏩ AWS DeepRacer Scholarship : Lesson 5 Begins.
 
-⏩ Continuing working in my projects
+⏩ Watching YouTube Videos regarding AI, and Data Science.
 
-⏩ Participated in community initiatives
-
-⏩ Practiced few more tutorials of @PyTorch
+⏩ Looking for some resources and good courses over the Internet to expand my knowledge about DL, and DS.
 
 
 Day 53(19-Aug-2019)
 
-⏩ Learning more about Differential privacy
+⏩ AWS DeepRacer Scholarship : Lesson 5 Completed.
 
-⏩ Finally completed my project for #ProjectShowcaseChallenge
-
-⏩ Writing blogs
-
-⏩ Had a meetup with our object detection group of #sg_wonder_vision
+⏩ Brushing up my knowledge for the AWS DeepRacer Course.
 
 
 Day 54(20-Aug-2019)
 
-⏩ Submitted my project for #ProjectShowcaseChallenge & our group project #Wonder_Vision_Face_Detection
+⏩ Got back to the SPAIC.
 
-⏩ Helped my fellow scholars to submit their projects
+⏩ Revising the topics.
 
-⏩ Revising Local & Global Differential Privacy
-
-
-Day 55(21-Aug-2019)
-
-⏩Revising Lesson 6 Differential Privacy for Deep Learning & PATE Analysis
-
-⏩Read few awesome articles & coding for my personal project
-
-⏩Participated in community initiatives
+⏩ Looking for resources to expand my knowledge.
 
 
-Day 56(22-Aug-2019)
+(21-Aug-2019)
 
-⏩ Revised the course Deep Learning with @PyTorch
-
-⏩ Watched a few awesome videos by @lexfridman lexfridman.com
-
-⏩ Attended a meetup with our study group #sg_wonder_vision
+No Learning for the day.
 
 
-Day 57(23-Aug-2019)
+Day 55(22-Aug-2019)
 
-⏩ Revising Lesson 7 Federated Learning
+⏩ Federated Learning : Revising the topics
 
-⏩ Did practiced few more tutorials @openminedorg
-
-⏩ https://blog.openmined.org/upgrade-to-federated-learning-in-10-lines/
-
-⏩ Did few labs on @qwiklabs
+⏩ Going through the blogs and courses related to Federated Learning.
 
 
-Day 58(24-Aug-2019)
+Day 56(23-Aug-2019)
 
-⏩ Revised the Lesson 8 Securing Federated Learning,Trusted Aggregator
+⏩ Watching some Tutorials.
 
-⏩ Attended our last meetup! study group #sg_study_jahm
-
-⏩ Read this awesome blog @openminedorg https://blog.openmined.org/federated-learning-differential-privacy-and-encrypted-computation-for-medical-imaging/
+⏩ Take a brief of Slack Messages from SPAIC Community.
 
 
-Day 59(25-Aug-2019)
+Day 57(24-Aug-2019)
 
-⏩ Today I started @fastdotai courses!
+⏩ Going through the Slack Messages in SPAIC Community.
 
-⏩ Revised Lesson 9 Encrypted Deep Learning,Encrypted Computation in PySyft @udacity
+⏩ Interacting with other students on Slack.
 
-⏩ Attend a super awesome meetup with our Study group #sg_pytorch_robotics
+⏩ Revising the topic : Encrypted Deep Learning.
 
 
-Day 60 (26-Aug-2019)
+Day 58(25-Aug-2019)
 
-⏩Completed revising the Secure and Private AI course
+⏩ Encrypted Deep Learning : Expanding my knowledge.
 
-⏩Practiced a few pytorch.org/tutorials
+⏩ Going through some resources over the web.
 
-⏩Continuing the @fastdotai course!
+⏩ Watching YouTube Videos.
+
+
+(26-Aug-2019)
+
+No Learning for the day, wasn't well.😷
+
+Attended the AMA Session.
+
+
+Day 59(27-Aug-2019)
+
+⏩ Interacting and Encouraging other students on Slack.
+
+⏩ Responding to Messages on Slack.
+
+⏩ Going through the resources Channel. 
+
+
+Day 60(28-Aug-2019) ✅✅✅✅✅
+
+⏩ Finally the Day 60 of #60DaysofUdacity.
+
+⏩ Responding to Messages on Slack.
+
+⏩ Attended a Webniar by @Ayivima and a Virtual Meetup by @Aniket Mitra
+
+⏩ Crossed-checked everything. ✅✅✅
+
+
