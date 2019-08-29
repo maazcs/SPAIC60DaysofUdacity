@@ -1,7 +1,7 @@
 # SPAIC60DaysofUdacity #60DaysofUdacity 🎉
 Building a habit of practising new skills through an awesome Scholarship Challenge powered by Udacity, sponsored by Facebook.
 
-**The 60 Days Timeline (28th June 2019 - 28th August 2019)**
+**The 60 Days Timeline (28th June 2019 - 28th August 2019)**<br />
 
 📆 Day 1 (28th June 2019)
 
@@ -9,14 +9,14 @@ Building a habit of practising new skills through an awesome Scholarship Challen
 
 ⏩ Journey Begins. Lesson 2 in Progress.
 
-⏩ Exploring the web for some more information about different topics.  
+⏩ Exploring the web for some more information about different topics. <br /> 
 
 
 📆 Day 2 (29th June 2019)
 
 ⏩ Lesson 2 in Progress.
 
-⏩ Work on the Projects.  
+⏩ Work on the Projects.  <br />
 
 
 📆 Day 3 (30th June 2019)
