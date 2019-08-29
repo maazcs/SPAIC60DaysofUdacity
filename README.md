@@ -384,7 +384,8 @@ Building a habit of practising new skills through an awesome Scholarship Challen
 ⏩ Interacting with peers in the Community.
 
 
-(09th Aug 2019)
+➖ (09th Aug 2019)
+
 No Learning for the Day, Wasn't Well. :(
 
 
@@ -481,7 +482,7 @@ No Learning for the Day, Wasn't Well. :(
 ⏩ Looking for resources to expand my knowledge.
 
 
-(21-Aug-2019)
+➖ (21-Aug-2019)
 
 No Learning for the day.
 
@@ -518,7 +519,7 @@ No Learning for the day.
 ⏩ Watching YouTube Videos.
 
 
-(26-Aug-2019)
+➖ (26-Aug-2019)
 
 No Learning for the day, wasn't well.😷
 
